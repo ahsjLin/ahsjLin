@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi!
+Hi! 這是逼我要學markdown的節奏嗎？（這是用markdown寫的）
 <!--
 **ahsjLin/ahsjLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
